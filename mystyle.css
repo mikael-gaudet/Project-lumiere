@@ -1,0 +1,9 @@
+html {
+  background-color: #78b08f;
+}
+* { margin: 0; }
+.header {
+  width: 100vw;
+  height: auto;
+}
+ .header img:first-child { height: 100%; width: 100%; object-fit: contain }
